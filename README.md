@@ -76,9 +76,11 @@ The project incorporates various data visualizations to enhance understanding:
 
 ## Example Visualizations
 - Distribution of Player Heights:
-<img src="nba_project/Photos/historgram_height.png" />
+![historgram_height](https://github.com/user-attachments/assets/4f520686-11e3-42ba-a5ed-d3711289a02c)
+
 - Home vs. Away Points:
-<img src="nba_project/Photos/scatterplot_points.png" />
+![scatterplot_points](https://github.com/user-attachments/assets/65199f50-baf4-4225-8c4f-f986ddc6f0e3)
+
 
 These visualizations provide a clear, graphical representation of the data, making complex statistics more accessible to users.
 
